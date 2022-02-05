@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-accounts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-address-validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-address-validation-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-authorization-simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-carts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-catalogs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-discounts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-discounts-codes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-email-smtp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-email-templates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-i18n" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-inventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-inventory-simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-job-queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-navigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-notifications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-orders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-payments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-payments-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-payments-stripe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-pricing-simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-products" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-settings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-shipments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-shipments-flat-rate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-shops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-simple-schema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-sitemap-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-surcharges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-system-information" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-tags" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-taxes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-taxes-flat-rate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-plugins/api-plugin-translations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example-storefront" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reaction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reaction-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reaction-admin/imports/plugins/custom/reaction-marketplace-ui" vcs="Git" />
+  </component>
+</project>

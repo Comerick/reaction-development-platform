@@ -1,0 +1,9 @@
+
+!^.docs/
+!^.github/
+!config/
+/config/local/
+!config/local/.gitkeep
+config.local.mk
+node_modules/
+/**/node_modules/**/
