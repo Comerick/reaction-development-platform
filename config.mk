@@ -33,7 +33,7 @@ https://github.com/Comerick/reaction-admin.git,reaction-admin,v1.0.0 \
 https://github.com/Comerick/reaction-identity.git,reaction-identity,v1.0.0 \
 https://github.com/reactioncommerce/example-storefront.git,example-storefront,v4.1.0 \
 https://github.com/Comerick/kratos.git,ory-kratos,v1.0.0 \
-https://github.com/Comerick/reaction-camunda.git,reaction-camunda,v1.0.0 \
+https://github.com/Comerick/reaction-camunda.git,reaction-camunda,v1.0.1 \
 https://github.com/Comerick/reaction-camunda-client.git,reaction-camunda-client,v1.0.0
 endef
 
