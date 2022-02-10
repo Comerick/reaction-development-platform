@@ -27,7 +27,7 @@ endef
 # TAG is the git tag or branch to checkout
 # Projects will be started in this order
 define SUBPROJECT_REPOS
-https://github.com/Comerick/reaction-hydra.git.git,reaction-hydra,v1.0.0 \
+https://github.com/Comerick/reaction-hydra.git,reaction-hydra,v1.0.0 \
 https://github.com/Comerick/reaction.git,reaction,v1.0.0 \
 https://github.com/Comerick/reaction-admin.git,reaction-admin,v1.0.0 \
 https://github.com/Comerick/reaction-identity.git,reaction-identity,v1.0.0 \
